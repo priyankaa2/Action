@@ -1,9 +1,0 @@
-{
-    "error": {
-        "doNotUnderstand": "Sorry, I dont think I understood."
-    },
-    "relayTurnOn": "Light has been turned on.",
-    "relayTurnOff": "Light has been turned off.",
-    "checkHumidity": "Hello the current humidity is {{ humidity }}%.",
-    "checkTemperature": "Hello current temperature is {{ temperature }} degrees."
-}
